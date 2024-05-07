@@ -4,7 +4,7 @@ import Themetoggle from "./Themetoggle";
 
 const App = () => {
   return <main>
-    <Themetoggle/>
+    <ThemeToggle/>
     <SearchForm/>
     <Gallery/>
   </main>
